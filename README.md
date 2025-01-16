@@ -8,3 +8,7 @@ a collection of todos, scripts and advices
 
 Ingenieur  
 @RainerReelfs  
+
+Mark Nelson  
+@energybants  
+
